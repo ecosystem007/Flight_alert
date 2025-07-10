@@ -1,0 +1,10 @@
+from: "SHA"
+to: "BKK"
+date: "2025-08-01"
+price_limit: 900
+
+email:
+  sender: "your_email@qq.com"
+  password: "your_email_auth_code"
+  receiver: "your_target_email@gmail.com"
+  smtp_server: "smtp.qq.com"
